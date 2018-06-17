@@ -1,5 +1,6 @@
 <?php
 
+use \App\Item;
 namespace App\Http\Controllers;
 
 use Illuminate\Foundation\Bus\DispatchesJobs;
